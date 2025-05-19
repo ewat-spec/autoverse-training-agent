@@ -1,0 +1,6 @@
+# agent/requirements.txt
+fastapi
+uvicorn
+langchain
+openai
+duckduckgo-search
